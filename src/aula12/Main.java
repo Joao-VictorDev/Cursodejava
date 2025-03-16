@@ -17,7 +17,6 @@ public class Main {
         System.out.println("1 para sim ou 2 para não");
         int res = ler.nextInt();
 
-        System.out.println();
         ler.close();
     }
 }
