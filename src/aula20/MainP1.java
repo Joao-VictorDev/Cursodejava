@@ -2,7 +2,7 @@ package aula20;
 
 public class MainP1 {
     public static void main(String[] args) {
-        // Matrizes (Arrays Multidimensionais) coluna = 10 linha = 5
+        // Matrizes (Arrays Multidimensionais) linha = 30 coluna = 4
         double[][] notasAlunos = new double[30][4];
 
         notasAlunos[0][0] = 10;
